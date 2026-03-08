@@ -1,0 +1,65 @@
+# 操作系统生成的文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# 编辑器和IDE配置文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.log
+~*
+*.orig
+
+# 备份文件
+*.backup
+*.old
+
+# 编译和构建产物
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+bin/
+obj/
+
+# 依赖目录
+node_modules/
+vendor/
+
+# 敏感信息文件
+*_local/
+*_private/
+secrets/
+credentials/
+*.key
+*.pem
+*.p12
+passwords.txt
+.env
+.env.local
+.env.*.local
+
+# 文档临时输出
+*.pdf
+*.doc
+*.docx
+~$*.doc*
